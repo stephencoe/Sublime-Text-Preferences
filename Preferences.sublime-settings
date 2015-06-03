@@ -1,0 +1,51 @@
+{
+	"bold_folder_labels": true,
+	"close_windows_when_empty": true,
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"detect_indentation": true,
+	"drag_text": false,
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		".hg",
+		".idea",
+		".sass-cache",
+		".settings",
+		"node_modules"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": -1,
+	"rulers":
+	[
+		120
+	],
+	"shift_tab_unindent": true,
+	"show_full_path": true,
+	"sidebar_row_padding_medium": true,
+	"sidebar_size_12": true,
+	"tab_size": 4,
+	"tabs_padding_medium": true,
+	"theme": "Afterglow-magenta.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+	"word_wrap": true,
+	"wrap_width": 120
+}
