@@ -24,6 +24,7 @@
 		"node_modules"
 	],
 	"font_size": 12,
+	"font_face": "Monaco",
 	"highlight_line": true,
 	"ignored_packages":
 	[
