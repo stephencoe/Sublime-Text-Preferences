@@ -23,30 +23,33 @@
 		".settings",
 		"node_modules"
 	],
-	"font_size": 12,
+	"font_size": 13,
 	"font_face": "Monaco",
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
+	"line_padding_bottom": 5,
 	"line_padding_top": 1,
 	"margin": -1,
+	"match_brackets": true,
 	"rulers":
 	[
-		120
+		80
 	],
 	"shift_tab_unindent": true,
 	"show_full_path": true,
+	"show_encoding": true,
+	"show_line_endings": true,
 	"sidebar_row_padding_medium": true,
 	"sidebar_size_12": true,
 	"tab_size": 4,
 	"tabs_padding_medium": true,
 	"theme": "Afterglow-blue.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
 	"word_wrap": true,
-	"wrap_width": 120
+	"wrap_width": 80
 }
